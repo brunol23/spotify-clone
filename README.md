@@ -2,7 +2,7 @@
 
 Clone da tela inicial do Spotify desenvolvido no curso completo de desenvolvimento web, utilizando HTML, CSS e Bootstrap.
 
-#### Imagens do site
+#### Imagens do projeto
 ![tela-inicial](https://i.ibb.co/pPMQB44/spotify-clone.png "tela-inicial")
 
 ![tela-inicial2](https://i.ibb.co/qMVP1hx/spotify-clone2.png "tela-inicial2")
